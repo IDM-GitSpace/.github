@@ -1,4 +1,4 @@
-# GitHub Organization 利用ルールブック（ガイドライン）
+# IDM-GitSpace 利用ルールブック（ガイドライン）
 
 本ドキュメントは、当社のGitHub Free for Organizationsを用いた開発を安全かつ円滑に進めるためのルールを定めたものです。
 Organizationに参加するすべてのメンバーは、本ルールを熟読し、遵守して開発を行ってください。
